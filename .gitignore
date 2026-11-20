@@ -1,0 +1,16 @@
+# данные и служебные файлы
+*.csv
+*.tsv
+*.parquet
+*.pkl
+*.zip
+*.ptl
+*.h5
+data/
+datasets/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.env
+.venv/
+venv/
