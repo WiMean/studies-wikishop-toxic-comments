@@ -1,0 +1,14 @@
+# Зависимости учебного проекта (Яндекс Практикум, 2022–2023).
+# Версии не фиксировались в исходном окружении.
+
+jupyter
+lightgbm
+matplotlib
+nltk
+numpy
+pandas
+scikit-learn
+seaborn
+spacy
+torch
+transformers
